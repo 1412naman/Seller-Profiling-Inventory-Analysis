@@ -1,1 +1,1 @@
-# Seller-Profiling-Inventory-Analysis
+# SellerScope-Inventory-Analysis
